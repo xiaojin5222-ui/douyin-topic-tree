@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "name": "douyin-topic-tree",
+  "version": "0.1.0",
+  "license": "MIT",
+  "copyright_holder": "xiaojin5222-ui",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "40ff881a6a738ca57015b0f410bda588d8a375e59e17dc1d44564f47f86d1eed",
+      "bytes": 57
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "f13eab9293b5b94ce95f23c10053c299af2a662e84420ed7e670a839d6f556c4",
+      "bytes": 1071
+    },
+    {
+      "path": "README.md",
+      "sha256": "ab5cee7a00d52c6ca61682f67f25f9379c9c516e0c91a7aed330782a9e1973a6",
+      "bytes": 5898
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "0efc5ac226c3097d671e7e6034b12866d3e4a49ec99b7e414e6c95101c285305",
+      "bytes": 6259
+    },
+    {
+      "path": "SOURCES.md",
+      "sha256": "b08e2e3a48cfb3c8c9df6388b6f7f3837a83d0e07e748aebae7cfb198470e219",
+      "bytes": 1056
+    },
+    {
+      "path": "VALIDATION.md",
+      "sha256": "b99317048661b525c73f3aaa8d7c9070b5f37be109710e9a5b9152464ff02312",
+      "bytes": 4354
+    },
+    {
+      "path": "VERSION",
+      "sha256": "e9dd8507f4bf0c6f42458e41aea833ad0bd3f6127272335eee9bf4d58541ed67",
+      "bytes": 6
+    },
+    {
+      "path": "agents/openai.yaml",
+      "sha256": "6d8c20e56a8ca84193537238ab029b5a1cc0206533c18dbe86a36cb3e25dc31b",
+      "bytes": 335
+    },
+    {
+      "path": "references/video-distillation.md",
+      "sha256": "6449e6be6da8b60a60c2887e5b806fd6d2e2c5aeef051a882e72d2413201eeb7",
+      "bytes": 1888
+    },
+    {
+      "path": "references/worked-examples.md",
+      "sha256": "71e66209b1dff21a618ac8dcb285b453fbaa0d48a496ca99164c0434914d5bc8",
+      "bytes": 4912
+    }
+  ],
+  "note": "The manifest does not hash itself. SHA-256 detects changes, not author identity."
+}
