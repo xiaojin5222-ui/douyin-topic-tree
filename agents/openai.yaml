@@ -1,0 +1,4 @@
+interface:
+  display_name: "抖音拍摄选题树"
+  short_description: "用题向、题点、选题与裂题，把真实素材整理成可拍摄的抖音选题卡"
+  default_prompt: "用 $douyin-topic-tree 根据我的账号方向和现有素材，找一个值得拍的抖音选题，再拆出不同角度并列出要拍的画面。"
